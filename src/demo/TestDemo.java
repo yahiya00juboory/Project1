@@ -13,7 +13,12 @@ public static void main(String[] args) {
 	//Regards, Yahiya.. :)
 	
 	
+	//New Code
+	//Add your name --> Yahiya Aljuboory
 	
+public void add  (int a, int b);
+
+System.out.println(a + b);
 	
 	
 	
