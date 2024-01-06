@@ -14,12 +14,10 @@ public static void main(String[] args) {
 	
 	
 	//New Code
-	//Add your name --> Yahiya Aljuboory
 	
-public void add  (int a, int b);
-
-System.out.println(a + b);
 	
+	
+	System.out.println("Push Back this message and change (B)");
 	
 	
 }
